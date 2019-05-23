@@ -1,0 +1,49 @@
+.container-nopad {
+	padding-right: 0;
+	padding-left: 0; 
+}
+
+.text-logo{
+
+}
+
+.nav a {
+	color: white;
+}
+
+.nav-bar {
+	background: rgba(75, 75, 75, 0.3);
+	padding: 15px;
+	opacity: 15%;
+	position: absolute;
+}
+
+.img-pad {
+	padding-left: 50px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-right: 50px
+}
+
+.text-pad{
+	padding-left: 50px;
+	padding-top: 0px;
+	padding-bottom: 10px;
+	padding-right: 50px
+}
+.sticky {
+    position: fixed;
+    background: rgb(0, 0, 0);
+	padding: 15px;
+	opacity: 15%;
+	z-index: 99999;
+}
+
+.div-menu{
+	background: rgb(230,230,230);
+}
+
+.div-menu2{
+	background: #dc1a3c;
+}
+
